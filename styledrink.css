@@ -1,6 +1,6 @@
 body
 {
-  margin-top: 7.5%;
+  margin-top: 9.5%;
   background-color: #2CB0BF;
   text-align: center;
 }
@@ -20,8 +20,7 @@ font-size: 350%;
 font-weight: bold;
 display: block;
 margin: auto;
-
-margin-bottom: 4%;
+margin-bottom: 6%;
   border: solid 1px transparent;
   border-radius: 19px;
   padding: 0.65em 2.5em;
@@ -38,13 +37,13 @@ margin: auto;
 font-weight: bold;
   border: solid 1px transparent;
   border-radius: 19px;
-  padding: 0.65em 2.5em;
+  padding: 0.65em 1.5em;
   text-align: center;
 color: #2CB0BF;
 background-color: white;
 }
 
 .firstpagebuttons{
-margin-top: 94.5%;
+margin-top: 91.5%;
   display: block;
 }
