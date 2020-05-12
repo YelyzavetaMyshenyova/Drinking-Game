@@ -4,10 +4,49 @@ body
   text-align: center;
 }
 
-
 h1{
 font-family: "Arial Black", Gadget, sans-serif;
-font-size: 100%;
+font-size: 150%;
 line-height: 0.6em;
 color: #FFFFBF;
+}
+
+h2{
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 180%;
+line-height: 0.6em;
+color: #FFFFBF;
+}
+
+.buttonteams{
+font-family: "Arial Black", Gadget, sans-serif;
+display: block;
+margin: auto;
+  text-decoration: none;
+margin-bottom: 2%;
+  border: solid 1px transparent;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  text-align: center;
+color: #2CB0BF;
+background-color: white;
+}
+
+.buttonsingleplayer{
+  font-family: "Arial Black", Gadget, sans-serif;
+display: block;
+margin: auto;
+  text-decoration: none;
+
+  border: solid 1px transparent;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  text-align: center;
+color: #2CB0BF;
+background-color: white;
+}
+
+.firstpagebuttons{
+margin-top: 30%;
+  display: block;
 }
