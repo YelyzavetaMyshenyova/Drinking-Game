@@ -22,7 +22,7 @@ margin: auto;
 
 margin-bottom: 4%;
   border: solid 1px transparent;
-  border-radius: 8px;
+  border-radius: 16px;
   padding: 0.5em 1em;
   text-align: center;
 color: #2CB0BF;
@@ -36,7 +36,7 @@ display: block;
 margin: auto;
 font-weight: bold;
   border: solid 1px transparent;
-  border-radius: 8px;
+  border-radius: 16px;
   padding: 0.5em 1em;
   text-align: center;
 color: #2CB0BF;
