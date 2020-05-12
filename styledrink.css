@@ -1,13 +1,13 @@
 body
 {
-  margin-top: 3%;
+  margin-top: 5%;
   background-color: #2CB0BF;
   text-align: center;
 }
 
 h1{
 font-family: "Arial Black", Gadget, sans-serif;
-font-size: 500%;
+font-size: 570%;
 line-height: 0.6em;
 color: #FFFFBF;
 }
@@ -15,11 +15,11 @@ color: #FFFFBF;
 
 .buttonteams{
 font-family: "Arial Black", Gadget, sans-serif;
-font-size: 350%;
+font-size: 450%;
 display: block;
 margin: auto;
-  text-decoration: none;
-margin-bottom: 2%;
+
+margin-bottom: 4%;
   border: solid 1px transparent;
   border-radius: 8px;
   padding: 0.5em 1em;
@@ -30,10 +30,10 @@ background-color: white;
 
 .buttonsingleplayer{
   font-family: "Arial Black", Gadget, sans-serif;
-  font-size: 350%;
+  font-size: 450%;
 display: block;
 margin: auto;
-  text-decoration: none;
+
   border: solid 1px transparent;
   border-radius: 8px;
   padding: 0.5em 1em;
@@ -43,6 +43,6 @@ background-color: white;
 }
 
 .firstpagebuttons{
-margin-top: 95%;
+margin-top: 97%;
   display: block;
 }
