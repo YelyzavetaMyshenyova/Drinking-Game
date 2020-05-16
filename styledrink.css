@@ -1,0 +1,87 @@
+body
+{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 9.5%;
+  background-color: #2CB0BF;
+  text-align: center;
+}
+
+h1{
+font-weight: bold;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 570%;
+line-height: 0.6em;
+color: #FFFFBF;
+}
+
+
+#label{
+  padding-top: 3%;
+  padding-bottom: 3%;
+   border-radius: 15px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 350%;
+  font-weight: bold;
+color: white;
+margin: auto;
+margin-bottom:18%;
+width: 60%;
+}
+#text{
+
+color: white;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 350%;
+font-weight: bold;
+}
+
+.buttonteams{
+  border-radius: 13px;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 350%;
+font-weight: bold;
+display: block;
+margin: auto;
+margin-bottom: 6%;
+  border: solid 1px transparent;
+  border-radius: 19px;
+  padding: 0.65em 2.5em;
+  text-align: center;
+color: #2CB0BF;
+background-color: white;
+}
+
+.buttonsingleplayer{
+     border-radius: 13px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 350%;
+display: block;
+margin: auto;
+font-weight: bold;
+  border: solid 1px transparent;
+  border-radius: 19px;
+  padding: 0.65em 1.5em;
+  text-align: center;
+color: #2CB0BF;
+background-color: white;
+}
+
+.firstpagebuttons{
+margin-top: 91.5%;
+  display: block;
+}
+
+@media only screen and (min-height: 700px) {
+  .firstpagebuttons{
+  margin-top: 92.5%;
+    display: block;
+  }
+}
+
+@media only screen and (min-height: 800px) {
+  .firstpagebuttons{
+  margin-top: 93.5%;
+    display: block;
+  }
+}
