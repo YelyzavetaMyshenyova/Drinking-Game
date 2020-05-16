@@ -72,16 +72,3 @@ margin-top: 91.5%;
   display: block;
 }
 
-@media only screen and (min-height: 700px) {
-  .firstpagebuttons{
-  margin-top: 92.5%;
-    display: block;
-  }
-}
-
-@media only screen and (min-height: 800px) {
-  .firstpagebuttons{
-  margin-top: 93.5%;
-    display: block;
-  }
-}
